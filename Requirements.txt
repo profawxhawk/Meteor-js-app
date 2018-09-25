@@ -1,0 +1,2 @@
+Chocolatey==0.10.11
+Meteor==1.7.0.5
